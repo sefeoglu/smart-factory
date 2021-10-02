@@ -1,5 +1,5 @@
 # Smart Factory Project
-This repository consists of only paper which was written at the Applications of Autonomous Systems and Robotics course.
+This repository consists of only documents which was written at the Applications of Autonomous Systems and Robotics course.
 
 The project was completed as a group working at Technische Universitat Berlin (TU Berlin).
 
