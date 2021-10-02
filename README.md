@@ -13,7 +13,7 @@ The code of the project is not open source, so the project's codes are not avail
 
 * The System Diagram is available below.
 
-<img src="https://github.com/sefeoglu/smart-factory/blob/master/SDS_Architecture_Diagram-FINAL.png" alt="Autonomous Smart Factory" width="850" height="600">
+<img src="https://github.com/sefeoglu/smart-factory/blob/master/SDS_Architecture_Diagram-FINAL.png" alt="Autonomous Smart Factory" width="450" height="300">
 
 ==========================================
 
