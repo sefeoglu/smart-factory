@@ -13,3 +13,7 @@ The code of the project is not open source, so the project's codes are not avail
 
 <img src="https://github.com/sefeoglu/smart-factory/blob/master/SDS_Architecture_Diagram-FINAL.png" alt="Autonomous Smart Factory" width="850" height="600">
 
+==========================================
+
+Autonomous Smart Factory Project, TU Berlin
+
