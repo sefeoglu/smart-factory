@@ -1,11 +1,11 @@
 # Smart Factory Project
-This repository consists of only documents which was written at the Applications of Autonomous Systems and Robotics course.
+This repository consists only of documents that were written for the Applications of Autonomous Systems and Robotics course.
 
-The project was completed as a group working at Technische Universitat Berlin (TU Berlin).
+The project was completed as a group working at Technische Universität Berlin (TU Berlin).
 
-The code of the project is not open source, so the project's codes are not available.
+The main codebase is not open source, so the project's code is not available.
 
-* The System Design Specifications is [here](https://github.com/sefeoglu/smart-factory/blob/master/SDS_APPRASWS19_GROUP4.pdf)
+* The System Design Specifications are [here](https://github.com/sefeoglu/smart-factory/blob/master/SDS_APPRASWS19_GROUP4.pdf)
 
 * The final report of this project is [here](https://github.com/sefeoglu/smart-factory/blob/master/APP-RAS-WS19_G4_FinalReport.pdf).
 
